@@ -1,0 +1,14 @@
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\bin\Debug\net8.0\SyoteOmaNimi.exe
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\bin\Debug\net8.0\SyoteOmaNimi.deps.json
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\bin\Debug\net8.0\SyoteOmaNimi.runtimeconfig.json
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\bin\Debug\net8.0\SyoteOmaNimi.dll
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\bin\Debug\net8.0\SyoteOmaNimi.pdb
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.AssemblyInfoInputs.cache
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.AssemblyInfo.cs
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.dll
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\refint\SyoteOmaNimi.dll
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.pdb
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\SyoteOmaNimi.genruntimeconfig.cache
+C:\Users\leno\Desktop\Ohjelmistokehittäjänä toimiminen\tehtavat1\SyoteOmaNimi\SyoteOmaNimi\SyoteOmaNimi\obj\Debug\net8.0\ref\SyoteOmaNimi.dll
